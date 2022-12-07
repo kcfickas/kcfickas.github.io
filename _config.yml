@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kate C. Fickas"
-  avatar           : "profile.png"
+  avatar           : "Fickas_profile.jpeg"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Santa Barbara, CA / Sioux Falls, SD"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0002-6617-2441"
   pinterest        :
   soundcloud       :
